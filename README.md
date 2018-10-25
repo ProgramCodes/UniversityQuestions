@@ -8,9 +8,9 @@ I hope they will be useful for university professors and student.
 Write a program that :
 ------------------
 
-## 1th Section
+## #1th Section
 
-### 1.1 
+### #1.1 
 Displays the hello text.
 *Answer(s) :*
 ```
@@ -33,7 +33,7 @@ int main()
 ```
 
 
-## 1.2
+## #1.2
 Displays the 6-star icon.
 *Answer(s) :*
 ```
@@ -74,21 +74,21 @@ int main()
 ```
 
 
-## 2th Section
+## #2th Section
 
-### 2.1
+### #2.1
 Get two integers of the user.
 Numbers are the length of a parallelogram length.
 Display the shape using the '*' symbol.
 
-### 2.2
+### #2.2
 Get two number from user.
 And draw a trapezius.
 Both numbers must be greater than 0.
 If the condition is not satisfied, retrieve the number from the user.
 Draw a shape using the * symbol.
 
-### 2.3
+### #2.3
 
 Get an odd number greater than 4 from the user.
 For example, if the user enters number 5.
